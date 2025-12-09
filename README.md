@@ -32,5 +32,6 @@ Tujuan utama proyek ini adalah mengumpulkan informasi target dan menganalisis po
 # Link Video Dokumentasi
 
 https://studio.youtube.com/video/vcJTX_OQeSU/edit 
+https://studio.youtube.com/video/slvwCvYWdGk/edit 
 # Catatan
 Semua pengujian aktif dilakukan pada lingkungan lab yang telah diizinkan.
