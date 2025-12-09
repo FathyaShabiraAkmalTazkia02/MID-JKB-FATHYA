@@ -11,7 +11,13 @@ Repository ini berisi dokumentasi dan laporan tugas besar mata kuliah Ethical Ha
 - Active Reconnaissance
 
 Tujuan utama proyek ini adalah mengumpulkan informasi target dan menganalisis potensi risiko keamanan.
-# Target Pengujian
+# Target pengujian
+
+| Fase                    | Target                                      |
+|-------------------------|---------------------------------------------|
+| Passive Reconnaissance  | Website Pemerintah Kota Surabaya (surabaya.go.id) |
+| Active Reconnaissance   | VM lab rentan – IP: 192.168.132.2          |
+# Tools yang digunakan
 
 | Tools              | Fungsi                             |
 |--------------------|------------------------------------|
