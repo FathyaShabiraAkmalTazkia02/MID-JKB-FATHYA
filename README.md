@@ -31,6 +31,6 @@ Tujuan utama proyek ini adalah mengumpulkan informasi target dan menganalisis po
 | BuiltWith          | Identifikasi teknologi website    |
 # Link Video Dokumentasi
 
- https://studio.youtube.com/video/vcJTX_OQeSU/edit
+https://youtu.be/vcJTX_OQeSU 
 # Catatan
 Semua pengujian aktif dilakukan pada lingkungan lab yang telah diizinkan.
