@@ -30,5 +30,7 @@ Tujuan utama proyek ini adalah mengumpulkan informasi target dan menganalisis po
 | crt.sh             | Subdomain enumeration             |
 | BuiltWith          | Identifikasi teknologi website    |
 # Link Video Dokumentasi
+
+https://studio.youtube.com/video/slvwCvYWdGk/edit 
 # Catatan
 Semua pengujian aktif dilakukan pada lingkungan lab yang telah diizinkan.
